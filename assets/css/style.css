@@ -1,13 +1,16 @@
+/* Wildcard Element(all elements) */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body Element: contains all contents of the html*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Header: container for introductory content */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/* Priority heading element */
 .header h1 {
     display: inline-block;
     font-size: 48px;
