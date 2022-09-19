@@ -93,7 +93,6 @@ p {
     color: #ffffff;
 }
 
-
 /* Styles for images of sub content below the main image */
 .search-engine-optimization img,
 .online-reputation-management img,
@@ -108,7 +107,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 /* Main class for content on right panel*/
 .benefits {
@@ -155,6 +153,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h1 {
     font-size: 20px;
 }
