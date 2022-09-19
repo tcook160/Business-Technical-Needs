@@ -1,9 +1,9 @@
-# Business-Technincal-Needs
+# Business-Technical-Needs
 
 ## Description of Application
 
 - The motivation of this web application is to provide a business with the knowledge needed to thrive in todays technology driven world
-- This application shares relevent knowledge needed for a business with respect to search engine optimation, online reputation management, and social media marketing
+- This application shares relevent knowledge needed for a business with respect to search engine optimization, online reputation management, and social media marketing
 
 &nbsp;![image](https://user-images.githubusercontent.com/112792888/190935180-205ff163-332d-48f9-a5b6-8d6ebd5af565.png)
 
